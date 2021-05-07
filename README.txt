@@ -7,7 +7,6 @@ https://stanfordmlgroup.github.io/competitions/mura/
 14cat: 			Folder of images
 
 GRADE THIS ONE.ipynb:  	This is our fully-commented, final, and best model for submission.
-savedmodel.h5:  	If you want to predict with the 'GRADE THIS ONE' notebook you will need this saved model.
 
 
 These three notebooks are submitted as backup for the report\slides.  
